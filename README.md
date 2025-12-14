@@ -17,8 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0001-two-sum) |
+| [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0001-two-sum) |
+| [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
