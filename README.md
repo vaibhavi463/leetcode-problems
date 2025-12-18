@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhavi463/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhavi463/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhavi463/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/vaibhavi463/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/vaibhavi463/leetcode-problems/tree/master/0014-longest-common-prefix) |
 ## Trie
