@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaibhavi463/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
+| [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vaibhavi463/leetcode-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
