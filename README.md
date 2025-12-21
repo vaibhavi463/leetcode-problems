@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vaibhavi463/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/vaibhavi463/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/vaibhavi463/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [1108-defanging-an-ip-address](https://github.com/vaibhavi463/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |
