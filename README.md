@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaibhavi463/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
+| [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
+| [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
