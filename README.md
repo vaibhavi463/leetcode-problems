@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,13 +107,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0101-symmetric-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
