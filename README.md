@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaibhavi463/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/vaibhavi463/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavi463/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vaibhavi463/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
