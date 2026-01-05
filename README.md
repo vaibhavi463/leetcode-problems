@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/vaibhavi463/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vaibhavi463/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavi463/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/vaibhavi463/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vaibhavi463/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaibhavi463/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Stack
 |  |
