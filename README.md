@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vaibhavi463/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vaibhavi463/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavi463/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vaibhavi463/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/vaibhavi463/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vaibhavi463/leetcode-problems/tree/master/0066-plus-one) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavi463/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Recursion
