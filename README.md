@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/vaibhavi463/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vaibhavi463/leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
