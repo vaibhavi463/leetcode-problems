@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vaibhavi463/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vaibhavi463/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vaibhavi463/leetcode-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavi463/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/vaibhavi463/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vaibhavi463/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
