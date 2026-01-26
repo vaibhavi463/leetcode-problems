@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vaibhavi463/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vaibhavi463/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vaibhavi463/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## String
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vaibhavi463/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vaibhavi463/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 | [1108-defanging-an-ip-address](https://github.com/vaibhavi463/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 ## Trie
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/vaibhavi463/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
