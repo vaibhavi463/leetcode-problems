@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaibhavi463/leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vaibhavi463/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/vaibhavi463/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavi463/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vaibhavi463/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vaibhavi463/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/vaibhavi463/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/vaibhavi463/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 ## Trie
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaibhavi463/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/vaibhavi463/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
