@@ -14,10 +14,7 @@
  * }
  */
 class Solution {
-    public boolean isSameTree(TreeNode p, TreeNode q) {
-        
-
-
+    public boolean isSameTree(TreeNode p, TreeNode q)  {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(p);
         queue.add(q);
@@ -36,7 +33,8 @@ class Solution {
             queue.add(t2.right);
         }
         return true;
+    
+
+        
     }
 }
-        
-    
