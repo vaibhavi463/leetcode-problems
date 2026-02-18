@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vaibhavi463/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/vaibhavi463/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
 |  |
 | ------- |
