@@ -1,12 +1,11 @@
 class Solution {
     public int countCompleteSubarrays(int[] nums) {
        
-
-
         Set<Integer> set = new HashSet<>();
         for (int num : nums) set.add(num);
         int totalDistinct = set.size();
 
+     
         Map<Integer, Integer> map = new HashMap<>();
         int left = 0;
         int ans = 0;
@@ -28,6 +27,5 @@ class Solution {
         return ans;
     }
 }
-
         
     
