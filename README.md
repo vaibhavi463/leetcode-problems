@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/vaibhavi463/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavi463/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavi463/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavi463/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vaibhavi463/leetcode-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vaibhavi463/leetcode-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Greedy
 |  |
