@@ -1,7 +1,6 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-       
-        int left = 0;
+         int left = 0;
         int sum = 0;
         int minLen = Integer.MAX_VALUE;
 
@@ -16,5 +15,6 @@ class Solution {
         }
 
         return minLen == Integer.MAX_VALUE ? 0 : minLen;
+        
     }
-        }
+}
