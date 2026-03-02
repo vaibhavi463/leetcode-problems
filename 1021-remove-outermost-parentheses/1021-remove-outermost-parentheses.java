@@ -1,6 +1,6 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-       
+        
         StringBuilder result = new StringBuilder();
         int depth = 0;
 
