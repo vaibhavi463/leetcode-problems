@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/vaibhavi463/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavi463/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaibhavi463/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/vaibhavi463/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0696-count-binary-substrings](https://github.com/vaibhavi463/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/vaibhavi463/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 ## Trie
