@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vaibhavi463/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/vaibhavi463/leetcode-problems/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
