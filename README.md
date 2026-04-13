@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavi463/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/vaibhavi463/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavi463/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavi463/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
