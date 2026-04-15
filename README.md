@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaibhavi463/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vaibhavi463/leetcode-problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vaibhavi463/leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vaibhavi463/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vaibhavi463/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/vaibhavi463/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vaibhavi463/leetcode-problems/tree/master/0190-reverse-bits) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/vaibhavi463/leetcode-problems/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/vaibhavi463/leetcode-problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 ## Memoization
 |  |
