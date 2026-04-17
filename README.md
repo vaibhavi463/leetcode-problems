@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/vaibhavi463/leetcode-problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vaibhavi463/leetcode-problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vaibhavi463/leetcode-problems/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/vaibhavi463/leetcode-problems/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
