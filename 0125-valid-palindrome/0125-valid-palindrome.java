@@ -7,17 +7,11 @@ class Solution {
             if (!Character.isLetterOrDigit(s.charAt(i))) {
                 i++;
                 continue;}
-
-            
             if (!Character.isLetterOrDigit(s.charAt(j))) {
                 j--;
                 continue;}
-
-            
             char leftChar = Character.toLowerCase(s.charAt(i));
             char rightChar = Character.toLowerCase(s.charAt(j));
-
-    
             if (leftChar != rightChar) {
                 return false;}
 
