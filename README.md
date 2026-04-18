@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/vaibhavi463/leetcode-problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/vaibhavi463/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/vaibhavi463/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/vaibhavi463/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavi463/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/vaibhavi463/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## String
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavi463/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/vaibhavi463/leetcode-problems/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
