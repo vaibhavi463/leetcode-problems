@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavi463/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/vaibhavi463/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavi463/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/vaibhavi463/leetcode-problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/vaibhavi463/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavi463/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 ## Stack
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vaibhavi463/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavi463/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 ## Combinatorics
 |  |
 | ------- |
@@ -414,4 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/vaibhavi463/leetcode-problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavi463/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/vaibhavi463/leetcode-problems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
