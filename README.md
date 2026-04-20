@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vaibhavi463/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vaibhavi463/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vaibhavi463/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vaibhavi463/leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vaibhavi463/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vaibhavi463/leetcode-problems/tree/master/0066-plus-one) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaibhavi463/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vaibhavi463/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhavi463/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vaibhavi463/leetcode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vaibhavi463/leetcode-problems/tree/master/0072-edit-distance) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavi463/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vaibhavi463/leetcode-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vaibhavi463/leetcode-problems/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
