@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/vaibhavi463/leetcode-problems/tree/master/0890-find-and-replace-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/vaibhavi463/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/vaibhavi463/leetcode-problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Trie
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/vaibhavi463/leetcode-problems/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/vaibhavi463/leetcode-problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
