@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vaibhavi463/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/vaibhavi463/leetcode-problems/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/vaibhavi463/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavi463/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavi463/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavi463/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/vaibhavi463/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhavi463/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vaibhavi463/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaibhavi463/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavi463/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaibhavi463/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavi463/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhavi463/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vaibhavi463/leetcode-problems/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vaibhavi463/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/vaibhavi463/leetcode-problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
