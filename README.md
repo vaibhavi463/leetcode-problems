@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaibhavi463/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavi463/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhavi463/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhavi463/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaibhavi463/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavi463/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhavi463/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
