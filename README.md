@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vaibhavi463/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/vaibhavi463/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vaibhavi463/leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavi463/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavi463/leetcode-problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/vaibhavi463/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/vaibhavi463/leetcode-problems/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/vaibhavi463/leetcode-problems/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
