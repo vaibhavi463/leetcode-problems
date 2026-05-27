@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavi463/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/vaibhavi463/leetcode-problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vaibhavi463/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhavi463/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vaibhavi463/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
+| [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vaibhavi463/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vaibhavi463/leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaibhavi463/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vaibhavi463/leetcode-problems/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -476,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -509,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
