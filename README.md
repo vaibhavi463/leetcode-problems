@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/vaibhavi463/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vaibhavi463/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vaibhavi463/leetcode-problems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/vaibhavi463/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/vaibhavi463/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/vaibhavi463/leetcode-problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
