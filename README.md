@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/vaibhavi463/leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/vaibhavi463/leetcode-problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Two Pointers
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vaibhavi463/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavi463/leetcode-problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/vaibhavi463/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/vaibhavi463/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vaibhavi463/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -521,4 +525,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
