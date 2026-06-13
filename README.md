@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavi463/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavi463/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vaibhavi463/leetcode-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/vaibhavi463/leetcode-problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vaibhavi463/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhavi463/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vaibhavi463/leetcode-problems/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vaibhavi463/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/vaibhavi463/leetcode-problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
 |  |
 | ------- |
