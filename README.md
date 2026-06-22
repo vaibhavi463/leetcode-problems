@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/vaibhavi463/leetcode-problems/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/vaibhavi463/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/vaibhavi463/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavi463/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/vaibhavi463/leetcode-problems/tree/master/0890-find-and-replace-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhavi463/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/vaibhavi463/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/vaibhavi463/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/vaibhavi463/leetcode-problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Trie
 |  |
@@ -553,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/vaibhavi463/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
