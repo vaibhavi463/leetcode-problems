@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/vaibhavi463/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vaibhavi463/leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/vaibhavi463/leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vaibhavi463/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/vaibhavi463/leetcode-problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vaibhavi463/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/vaibhavi463/leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vaibhavi463/leetcode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhavi463/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
