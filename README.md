@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhavi463/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vaibhavi463/leetcode-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavi463/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavi463/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vaibhavi463/leetcode-problems/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |
@@ -556,11 +559,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/vaibhavi463/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaibhavi463/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhavi463/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
