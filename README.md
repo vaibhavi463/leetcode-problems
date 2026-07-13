@@ -586,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/vaibhavi463/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/vaibhavi463/leetcode-problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
