@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhavi463/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhavi463/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vaibhavi463/leetcode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vaibhavi463/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vaibhavi463/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/vaibhavi463/leetcode-problems/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
