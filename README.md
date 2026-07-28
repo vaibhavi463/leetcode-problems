@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vaibhavi463/leetcode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhavi463/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibhavi463/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/vaibhavi463/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/vaibhavi463/leetcode-problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
@@ -613,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhavi463/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
