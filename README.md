@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/vaibhavi463/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibhavi463/leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhavi463/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vaibhavi463/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhavi463/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vaibhavi463/leetcode-problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/vaibhavi463/leetcode-problems/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhavi463/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
 | ------- |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vaibhavi463/leetcode-problems/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/vaibhavi463/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
 |  |
 | ------- |
