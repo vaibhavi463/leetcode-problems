@@ -659,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vaibhavi463/leetcode-problems/tree/master/1140-stone-game-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhavi463/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
