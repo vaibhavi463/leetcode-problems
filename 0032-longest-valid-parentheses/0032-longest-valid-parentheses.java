@@ -1,6 +1,5 @@
 class Solution {
     public int longestValidParentheses(String s) {
-       
         Stack<Integer> stack = new Stack<>();
         stack.push(-1);
 
@@ -19,6 +18,7 @@ class Solution {
                 }
             }
         }
+
         return maxLen;
     }
 }
